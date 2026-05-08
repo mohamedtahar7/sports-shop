@@ -49,8 +49,8 @@ const CheckoutPage = () => {
             Confirmed.
           </h1>
           <p className="text-gray-500 text-xs font-bold uppercase tracking-widest mb-10 leading-relaxed">
-            Your order has been placed successfully. Check your email for the
-            receipt and tracking number.
+            Your order has been placed successfully. You'll get a call soon to
+            confirm the order.
           </p>
           <Link
             href="/"
